@@ -1,2 +1,2 @@
-# PYHTON
-PYTHON 
+# PYHTON教程
+1.Basic data type
